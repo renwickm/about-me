@@ -31,7 +31,7 @@ let questionThree = prompt('Based on my appearance, do you think my hobbies incl
 if (questionThree === 'y' || questionThree === 'yes'){
   alert('Gee thanks! I try!')
   //console.log(questionThree)
-} else if(questionThree === 'no' || questionThree === 'no'){
+} else if(questionThree === 'n' || questionThree === 'no'){
   alert('Six-packs are bought at the store...right?')
 } else {
   alert('I will never be Arnold, but that doesnt mean I dont care?')
