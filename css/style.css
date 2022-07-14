@@ -25,7 +25,7 @@ h2 {
 }
 
 ul {
-  list-style-type: square;
+  list-style: square;
 }
 
 ol {
@@ -34,17 +34,16 @@ ol {
 }
 .experience {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   border: 2px solid black;
+  flex-direction: column;
 }
- ul li {
-  display: flex;
-  flex-direction: row;
- }
+
 .education {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   border: 2px solid black;
+  flex-direction: column;
 }
 
 p {
