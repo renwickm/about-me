@@ -1,0 +1,65 @@
+[33mcommit d18813d89c8f043033fc78cfb221d6b5290a846d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Thu Jul 14 15:04:31 2022 -0600
+
+    css layout fixes
+
+[33mcommit cbc55a9e7ccbfcaf5faba6249f171310f661300b[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Thu Jul 14 12:57:08 2022 -0600
+
+    added loop to js and worked on html and css
+
+[33mcommit f8e7f5bfa8aee4ac840442171df409c3ffa321ec[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Wed Jul 13 21:32:35 2022 -0600
+
+    Added js and html and css for lab 03
+
+[33mcommit 308aa5d033c54f98e735ed3912029f7ba81211bc[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Tue Jul 12 20:32:10 2022 -0600
+
+    fixed one js error
+
+[33mcommit 9012bcfff59ec9b3d61b66cbedc517cef263f6d5[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Tue Jul 12 20:22:03 2022 -0600
+
+    fixed some js issues
+
+[33mcommit e87385ab86abfab9fd696edac5e399a834f85f80[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Tue Jul 12 18:19:55 2022 -0600
+
+    added html js and css content to about me project
+
+[33mcommit c7c8a467defa7a0ab589191ed8299b641b65168b[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Tue Jul 12 12:50:03 2022 -0600
+
+    added rules for reset.css
+
+[33mcommit 854e4250326c7506d03572977ad3b8936c48bc8b[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Tue Jul 12 12:44:55 2022 -0600
+
+    resent gitignore rules
+
+[33mcommit 407bebc927e6c6a88881307fd80c6f0dbb0e2455[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Tue Jul 12 12:43:09 2022 -0600
+
+    added eslintrc and gitignore rules
+
+[33mcommit a88b3235f48c2e32d29b867a3bcaa9b61ef1d5b0[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Tue Jul 12 12:35:01 2022 -0600
+
+    initial scaffolding of my 201 project
+
+[33mcommit b311acb15e073c35c6ff9020b41c829690fc9002[m
+Author: Matthew T. Renwick <mrenny65@gmail.com>
+Date:   Tue Jul 12 12:19:43 2022 -0600
+
+    Initial commit

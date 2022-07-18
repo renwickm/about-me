@@ -72,26 +72,8 @@ if (questionFive === 'y' || questionFive === 'yes'){
   alert ('Have any suggestions?')
 }
 
-
-
-// ADDITIONAL NOTES
-// // let userGuess = prompt('Guess what number I\'m thinking of');
-
-// // if(userGuess > myNum){
-  // //   alert('Too high');
-  // // } 
-  // // if (userGuess < myNum){
-    // //   alert('Too low!');
-    // // } 
-    // // if (userGuess === myNum){ 
-      // //   alert('Great Job!');
-// ADDIONAL NOTES
-      
-      
-      
       
 // QUESTION #6
-
 let myNum = 21;
 
 for(let i = 0; i < 4; i++){
@@ -112,75 +94,6 @@ for(let i = 0; i < 4; i++){
     alert('The answer was 21')
   }
 }
-
-
-
-
-// ADDITONAL NOTES
-//Credit to Brian Tittl: href="https://www.youtube.com/watch?v=cmIL1iRCM_I"
-// var computerNumber = Math.floor(Math.random()*20)+1;
-// var numTurns = 0;
-// var hasWon = false;
-
-// while (userNumber != computerNumber && numTurns < 4){
-//   numTurns++;
-//   var userNumber = prompt('Turn ' + numTurns + ': Can you guess my number?');
-
-//   if (userNumber == computerNumber){
-//     alert('You got it right!')
-//     hasWon = true;
-//   }
-//   else if (computerNumber > userNumber){
-//     alert('Too low!');
-//   }
-//   else if (computerNumber < userNumber){
-//     alert('Too high!');
-//   }
-//   else {
-//     alert('that is not a number...')
-//   }
-// }
-
-// if (hasWon == true){
-//   alert("Congratulations! You won!")
-// } else if (hasWon == false){
-//   alert("Sorry....better luck next time...")
-// }
-// ADDTIONAL NOTES
-
-
-
-// ADDITIONAL NOTES
-// let questionSeven = prompt('Can you find the suspect?')
-// let suspects = ['Billy', 'Meagan', 'Tanner', 'Zane', 'Queeney', 'Sam', 'Alex', 'Charlie', 'Dotty', 'Frank', 'Elvis', 'Hank', 'Riley', 'Sara', 'Tyler', 'Garret', 'Ike', 'Ashley', 'Lucas', 'Paul', 'Sophia', 'Jen', 'Nikki', 'Zoe']
-
-// for(let i = 0; i < suspects.length; i++){
-//   if(suspects[i] === 'Zane'){
-//     console.log('Yes, you found the suspect we\'re looking for!');
-//   } else {
-//     console.log('Sorry, this is not the suspect we are looking for.');
-//   }
-// }
-
-// function getRandomSuspect(){
-//   let randomIdx = Math.floor(Math.random()* suspects.length);
-//   let randomSuspect = suspect[randomIdx];
-//   return randomSuspect;
-// }
-
-// let clueGuesses = 6;
-// let suspect = 'Zane';
-// let foundSuspect = false;
-
-// while(clueGuesses && !foundSuspect){
-//   let consoleGuess = getRandomSuspect();
-//   console.log(`It was ${consoleGuess}, in remo with the candlestick! Guesses: ${clueGuesses}`);
-//   clueGuesses--;
-//   if(consoleGuess === suspect){
-//     foundSuspect= true;
-//   }
-// }
-// ADDITIONAL NOTES
 
 // QUESTION #7
 let favSport = ['football', 'basketball', 'rugby', 'baseball', 'soccer'];
